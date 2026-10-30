@@ -1,0 +1,11 @@
+# Respaldo local (videos viejos y versiones anteriores, ~88 MB): no se publica
+_respaldo/
+
+# Entorno de desarrollo
+.claude/
+node_modules/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
